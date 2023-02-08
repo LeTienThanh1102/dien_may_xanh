@@ -1,0 +1,278 @@
+@media (max-width: 1023px){
+    .home-product-spham::-webkit-scrollbar{
+        display: none;
+    }
+    .hiden_on-tablet{
+        display: none;
+    }
+}
+@media (max-width: 739px){
+    .modal-container{
+        max-width: 100%;
+    }
+    .carousel-cell{
+        width: 100%;
+    }
+    .auth-form__aside{
+        padding: 0 6px;
+    }
+    .c-12{
+        flex: 0 0 60%;
+        max-width: 60%;
+    }
+    .footer__dv{
+        font-size: 1.2rem ;
+    }
+    .header-nav{
+        margin-left: 16px;
+    }
+    .healp__today-pro-heading{
+        font-size: 1.3rem;
+    }
+    .app__caterory-list{
+        font-size: 1.4rem;
+        flex-wrap: wrap;
+    }
+    .app__caterory-items{
+        margin: 12px 12px;
+        width: 100%;
+    }
+    .hiden_on-mobile{
+        display: none;
+    }
+   
+    .sale__fashion-slogen{
+        font-size: 1.8rem;
+    }
+    .sale__fashion-bar-items{
+        flex: 1;
+    }
+
+    .slider__bar-logo{
+       height: 35vh;
+    }
+    .app__product-logo{
+        height: 5vh;
+    }
+    .home-product{
+        margin-top: 16px;
+    }
+    .home-product-all-btn{
+        padding: 12px 30px;
+    }
+    .header__search-input{
+        padding: 12px;
+    }
+    .header__nav-use{
+        margin-top: 12px;
+    }
+    .header__navbar-all::after{
+        display: none;
+    }
+    .slider__bar-logo{
+       width: 100%;
+    }
+    .c-6{
+        flex: 0 0 50%;;
+        max-width: 50%;
+    }
+    .footer-download{
+        flex-direction: column;
+    }
+    .footer-download__apps{
+        margin: 0;
+        width: 120px;
+    }
+    .sale__fashion-bar-list{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .sale__fashion-bar-items{
+        margin: 8px;
+    }
+    .help__today-nav-list{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .help__today-nav-items{
+        flex: 1;
+        padding: 4px;
+        margin: 12px;
+    }
+    .help__today-nav-link{
+        font-size: 1.4rem;
+    }
+    .home-product-items-name{
+        font-size: 1.3rem;
+        margin-bottom: 4px;
+    }
+    .home-product-link{
+        font-size: 1.2rem;
+    }
+    .sale__fashion-bar-link{
+        font-size: 1.4rem;
+    }
+    .sale__fashion-items-name{
+        font-size: 1.2rem;
+    }
+    .sale__fashion-items-price-old{
+        font-size: 1.3rem;
+    }
+    .sale__fashion-items-star-gold{
+        font-size: 1rem;
+    }
+    .footer__list{
+        margin-right: 16px;
+    }
+    .footer-quaty{
+        font-size: 1.3rem;
+    }
+    .entertainment__list{
+        min-height: 430px;
+    }
+    .popular__sloden{
+        font-size: 1.8rem;
+    }
+    .popular__all{
+        font-size: 1.4rem;
+    }
+    .popular__all-icon{
+        font-size: 1.2rem;
+    }
+    .popular__body-list{
+        margin: 0;
+    }
+    .popular__body-items{
+        margin: 0;
+    }
+    .popular__body-name{
+        font-size: 1.3rem;
+    }
+    .popular__body{
+        margin: 0;
+    }
+    .service__slogen{
+        font-size: 1.8rem;
+    }
+    .service__all{
+        font-size: 1.2rem;
+    }
+    .service__all-icon{
+        font-size: 1rem;
+    }
+    .service-items{
+        margin: 12px;
+    }
+    .c-8{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .service-body{
+        display: block;
+    }
+
+}
+@media (min-width: 740px) and (max-width: 1023px){
+    .slider__bar-logo{
+        height: 30vh;
+    }
+    .carousel-cell{
+        width: 27%;
+    }
+    .grid-col-2{
+        max-width: 50%;
+        flex: 0 0 50%;
+    }
+    .help__today-nav-items{
+        width: 50%;
+    }
+    .m-3{
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+    .m-6{
+        flex: 0 0 40%;
+        max-width: 40%;
+    }
+    .header__search-input{
+        padding: 12px 46px;
+    }
+    .header__nav-use{
+        margin-top: 12px;
+    }
+    .header__navbar-all::after{
+        display: none;
+    }
+    .app__caterory-list{
+        font-size: 1.4rem;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .app__caterory-items{
+        margin: 12px 12px;
+    }
+    .app__product-logo{
+        height: 8vh;
+    }
+    .sale__fashion-bar-list{
+        flex-wrap: wrap;
+    }
+    .sale__fashion-bar-items{
+        margin-top: 16px;
+    }
+    .help__today-nav-link{
+        line-height: 2rem;
+    }
+    .home-product-items-name{
+        padding-left: 0;
+        margin: 8px 4px;
+        text-align: center;
+        font-size: 1.4rem;
+    }
+    .home-product-items-sale{
+        font-size: 1.2rem;
+        padding: 4px;
+        
+    }
+    .healp__today-pro-heading{
+        font-size: 1.4rem;
+    }
+    .home-product-items-star-gold{
+        font-size: 1.1rem;
+        margin-top: 5px;
+    }
+    .home-product-items-bought{
+        font-size: 1.2rem;
+        margin-top: 0;
+    }
+    .help__today-nav-list{
+        
+        justify-content: space-between;
+    }
+    .help__today-nav-items{
+        display: flex;
+        flex-wrap: wrap;
+        flex: 1;
+        margin: 0 8px;
+    }
+    .entertainment__list{
+        min-height: 430px;
+    }
+    .footer-download{
+        flex-direction: column;
+    }
+    .footer-download__apps{
+        margin: 0;
+        padding: 0;
+    }
+    .header__nav-use {
+        margin-right: 36px;
+        margin-top: 1px;
+    }
+    .service-items{
+        margin-top: 12px;
+        justify-content: space-between;
+    }
+}
